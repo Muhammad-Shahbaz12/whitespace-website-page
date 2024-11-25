@@ -1,0 +1,56 @@
+ <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet"></link>
+    </head>
+    <h1>Hello i am a programmer</h1>
+
+
+
+
+
+
+
+
+
+    top-[92px] left-[1px] py-[140px] px-[220px]
+
+
+
+
+
+
+
+
+
+      <div className=''>
+    <div className='w-[100wh] h-[641px] top-[92px]  px-[32px] py-[140px] bg-[#043873]  '>
+      <div className='Hero w-[300px] h-[150px] mx-[250px] pt-[150px] flex  flex-wrap'>
+        <h1 className=' text-white w-[562px] h-[152px] text-[64px] leading-[77.45px] '>Get More Done With Whitespace</h1>
+        <p className='text-white w-[562px] h-[60px] text-[18px] leading-[30px]'>Project management software that enables your team to collaborates,plan,analanyxe and manage every task</p>
+        <button className='w-[219px] h-[63px] bg-[#4F9CF9] rounded-[8px] p-[20px] gap-[10px]'>Free-tril</button>
+      </div>
+      </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+  'w-[] h-[] top-[] left-[] md:w-[] md:h-[] md:top-[] md-left-[]
+lg:w-[] lg:h-[] lg:top-[] lg-left-[]
+   xl:w-[]  xl:h-[]  xl:top-[]  xl-left-[]
+   2xl:w-[]  2xl:h-[]  2xl:top-[]  2xl-left-[]'>
+
+
+
+
+   w-[320px] h-[1190px] top-[-6425px] left-[1875px] md:w-[768px] md:h-[12849px] md:top-[-6425px] md-left-[854px]
+lg:w-[1152px] lg:h-[9503px] lg:top-[-6425px] lg-left-[-596px]
+   xl:w-[100wh]  xl:h-[9559px]  xl:top-[-6425px]  xl-left-[-2396px]
+   2xl:w-[1920px]  2xl:h-[9977px]  2xl:top-[-6425px]  2xl-left-[-4716px]'>
